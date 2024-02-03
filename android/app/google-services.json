@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135037199977",
+    "project_id": "night-market-7675",
+    "storage_bucket": "night-market-7675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135037199977:android:70e9153c4c2d096eb9e4f8",
+        "android_client_info": {
+          "package_name": "com.example.night_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEK4qGkvA7ncYu6PUAFGM9h59D1g4hhdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

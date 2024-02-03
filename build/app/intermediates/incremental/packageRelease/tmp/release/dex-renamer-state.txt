@@ -1,0 +1,4 @@
+#Sat Oct 14 18:08:15 PKT 2023
+base.0=/home/haidersultan/Documents/flutterApps/night_market/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
