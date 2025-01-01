@@ -1,7 +1,7 @@
 # Night Market App
 
 ## Overview
-The Night Market app is a simple Flutter application that uses an unofficial Valorant API to retrieve and display user-specific Night Market and Store data. The app allows users to manage multiple accounts, automatically check the Night Market for all added accounts, and search for specific items across all accounts.
+The Night Market app is a simple Flutter application that uses an unofficial Valorant API and Firebase to retrieve and display user-specific Night Market and Store data. The app allows users to manage multiple accounts, automatically check the Night Market for all added accounts, and search for specific items across all accounts.
 
 **Note:** The Valorant API has undergone changes, and as a result, this project is no longer functional with the current API.
 
@@ -12,15 +12,15 @@ The Night Market app is a simple Flutter application that uses an unofficial Val
 - **Multiple Account Support**: Add and manage multiple Valorant accounts.
 - **Automatic Market Check**: Automatically fetch and update Night Market and Store data for all linked accounts.
 - **Item Search**: Search across all accounts to check if a specific item is available in any Night Market or Store.
+- **Firebase Integration**: Store user accounts and market data securely in Firebase.
 
 ---
 
 ## Prerequisites
 - **Flutter SDK**: Ensure Flutter is installed on your system. You can download it from [flutter.dev](https://flutter.dev/docs/get-started/install).
 - **API Access**: Obtain access to the unofficial Valorant API.
+- **Firebase Project**: Set up a Firebase project and configure it for your app.
 - **IDE**: Recommended IDEs are Visual Studio Code or Android Studio.
-
----
 
 ## Installation
 
